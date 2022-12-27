@@ -1,8 +1,20 @@
-body{
+body {
     padding: auto;
-    
+
 }
 
-h1{
+h1 {
     color: darkgreen;
+}
+
+ul {
+    list-style: none;
+    padding: 5;
+}
+
+li {
+    padding: 5px 10px;
+    background-color: #EEEEEE;
+    border: 1px solid #DDDDDD;
+    font-weight: bold;
 }
